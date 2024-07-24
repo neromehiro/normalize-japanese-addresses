@@ -1,5 +1,5 @@
 {
-  "name": "neromehiro/normalize-japanese-addresses",
+  "name": "@neromehiro/normalize-japanese-addresses",
   "version": "2.10.1",
   "description": "",
   "browser": "./dist/main-browser.js",
