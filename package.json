@@ -59,6 +59,6 @@
     "@geolonia/japanese-numeral": "^0.1.16",
     "isomorphic-unfetch": "^3.1.0",
     "lru-cache": "^6.0.0",
-    "@neromehiro/normalize-japanese-addresses": "github:neromehiro/normalize-japanese-addresses"
+    "@geolonia/normalize-japanese-addresses": "github:neromehiro/normalize-japanese-addresses"
   }
 }

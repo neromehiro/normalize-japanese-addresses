@@ -1,4 +1,4 @@
-const { normalize } = require('@neromehiro/normalize-japanese-addresses');
+const { normalize } = require('@geolonia/normalize-japanese-addresses');
 
 module.exports = async (req, res) => {
   const { address, level } = req.query;
